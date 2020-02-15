@@ -1,0 +1,36 @@
+
+  TO EXECUTE THE CODE CORECTLY
+
+
+
+Question 1
+
+You have a text file that enable you to test the function BuldingDecisionTree.
+
+You can do >>>data=openfile('./test.txt')
+           >>>BuldingDecisionTree(data,minNum)
+
+The function will print you the tree as requested, and will return the dictionnary that will be useful for question 2 and 3.
+
+
+
+
+
+Question 2 
+
+
+To have your dictionnary, you can type :  >>>dico=BuldingDecisionTree(data)
+				
+Then you obtain the generalization error with : >>>Generalization_error(data,dico,alpha)
+
+
+
+
+
+
+Question 3       >>>Pruned_tree(dico,alpha,data)
+
+
+
+
+
